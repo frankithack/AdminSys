@@ -1,0 +1,24 @@
+****Ajout des images dans GNS3 et les Machines Virtuelles VMs
+
+****Mise en place de la topologie
+**Interconnexions et adressages
+
+****Test de connexion internet
+
+****Configuration des hosts
+**ip address
+
+****Configuration du switch L3 (MLS)
+**VLAN, SVI, inter-VLAN
+
+****Configuration du Pare-feu Palo-Alto
+**Interfaces, Zones, Virtual Routers,
+**les Objects, les règles de sécurité
+**Policies et NAT
+
+****Test de connexion entre les équipements
+
+****Configuration du Nagios
+**SNMP, SSH, Switch, Routeur, FTP, DNS, etc...
+
+****Test de monitoring
